@@ -10,6 +10,7 @@ I'm **Mikhail**, an Applied Computer Science student and Go backend developer.
 - REST API
 - SQL
 - Docker
+- Git
 - Clean Architecture
 - Prometheus
 - Observability
