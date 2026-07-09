@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**svxlxrd/svxlxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mikhail**, an Applied Computer Science student and Go backend developer.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Go
+- PostgreSQL
+- Redis
+- REST API
+- SQL
+- Docker
+- Docker Compose
+- Clean Architecture
+- Prometheus
+- Observability
+- Resilience
+
+## 📫 Contact
+
+- Telegram: [@svxlxrd](https://t.me/svxlxrd)
+- Email: [mishakhegai@gmail.com](mailto:mishakhegai@gmail.com)
