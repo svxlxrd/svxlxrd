@@ -7,6 +7,7 @@ I'm **Mikhail**, an Applied Computer Science student and Go backend developer.
 - Go
 - PostgreSQL
 - Redis
+- gRPC
 - REST API
 - SQL
 - Docker
